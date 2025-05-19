@@ -43,7 +43,7 @@ Sigue estos pasos para ejecutar la aplicación localmente:
 
 ---
 
-💡 Si tienes alguna duda o problema al ejecutar el proyecto, no dudes en crear un *Issue* o contactarme.
+Si tienes alguna duda o problema al ejecutar el proyecto, no dudes en crear un *Issue* o contactarme.
 
 ## CONTACTO:
 Acosta Peña Aelyn Nahomi \
