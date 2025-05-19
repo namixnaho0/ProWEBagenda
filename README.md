@@ -27,7 +27,7 @@ Sigue estos pasos para ejecutar la aplicación localmente:
    - Abre **phpMyAdmin** desde el panel de XAMPP.
    - Crea una nueva base de datos llamada `agendamodelos2`.  
    *(Puedes usar otro nombre, pero asegúrate de actualizar la configuración del proyecto si lo haces).*
-   - Importa el archivo `agendamodelos2.sql` ubicado en la carpeta `database` del proyecto.
+   - Importa el archivo `SCRIPT_Agenda.sql` ubicado en la carpeta `database` del proyecto.
 
 4. **Ejecutar la aplicación**  
    Abre tu navegador y entra a:  
